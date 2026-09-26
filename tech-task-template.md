@@ -50,13 +50,13 @@
 
 ### 1.2. Исполнитель
 
-**ФИО:** [ЗАПОЛНИТЬ]
+**ФИО:** Парфенов Максим Олегович
 
-**Telegram:** [ЗАПОЛНИТЬ]
+**Telegram:** @maskerito
 
-**Gmail:** [ЗАПОЛНИТЬ]
+**Gmail:** maskeritto@gmail.com
 
-**GitHub-login:** [ЗАПОЛНИТЬ]
+**GitHub-login:** Maske1rr
 
 ### 1.3. Тема
 
